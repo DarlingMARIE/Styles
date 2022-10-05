@@ -1,0 +1,63 @@
+/* STYLES */
+
+body {
+    background: rgb(242, 228, 177);
+color: darkblue;
+font-family: 'Poppins', sans-serif;
+}
+
+main { 
+max-width: 900px;
+margin-left:auto;
+margin-right: auto;
+margin-bottom: 100px;
+margin-top: 100px;
+
+}
+
+/* Typograpahy
+================ */
+
+ h1{font-size: 55px;
+color: darkblue;
+font-family: 'Poppins', sans-serif;
+line-height: 48px ;
+text-transform: uppercase}
+
+ em{ font-size: 18px}
+
+ 
+ a:hover {
+    color: violet;
+transition: 0.25s}
+
+h2{ text-align: center;
+    
+line-height: 25px;
+color: darkred;}
+ 
+h3 {color: darkred;
+font-size: 20px;
+margin-top: 60px;
+margin-bottom: 10px;
+text-align: center;
+border-style:groove;
+border-width:thick;
+border-color: darkred;}
+
+h4{ color:darkred;
+font-size: 20px;
+margin-top: 60px;
+margin-bottom: 10px;
+text-align: center;
+border-style:groove;
+border-width:thick;
+border-color: darkred;}
+
+
+
+p{font-size:18px;
+line-height: 25px;}
+
+ul { font-size: 18px;
+line-height: 30px;}
